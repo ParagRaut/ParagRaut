@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParagRaut
+- 👋 Hi, I’m ParagRaut
 - 👀 I’m interested in software engineering and programming 
 - 🌱 I’m currently learning Vue.js as frontend for my .Net 6 backend
 - 💞️ I’m looking to collaborate on something interesting invlovling .Net 6
