@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ParagRaut
 - 👀 I’m interested in software engineering and programming 
-- 🌱 I’m currently learning Vue.js as frontend for my .Net 6 backend
-- 💞️ I’m looking to collaborate on something interesting invlovling .Net 6
+- 🌱 I’m currently learning Vue as frontend for my .Net 8 backend
+- 💞️ I’m looking to collaborate on something interesting involving .Net
 - 📫 How to reach me ? Just visit [My Portfolio](https://paragraut.me)
 
 
